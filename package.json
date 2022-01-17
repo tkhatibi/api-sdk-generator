@@ -12,7 +12,8 @@
     "node": ">=10"
   },
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "commit": "cz"
   },
   "devDependencies": {
     "@types/node": "^17.0.9",
