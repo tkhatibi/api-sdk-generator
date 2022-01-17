@@ -15,6 +15,7 @@
     "prepare": "husky install",
     "release": "standard-version",
     "release:v1": "standard-version -- --release-as major",
+    "push": "git push --follow-tags origin develop && npm publish",
     "commit": "cz"
   },
   "devDependencies": {
