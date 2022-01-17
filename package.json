@@ -6,7 +6,7 @@
     "email": "2rajpx@gmail.com"
   },
   "repository": "https://github.com/tkhatibi/ghostcoder",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "engines": {
     "node": ">=10"
