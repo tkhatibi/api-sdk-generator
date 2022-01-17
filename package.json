@@ -12,6 +12,7 @@
     "node": ">=10"
   },
   "scripts": {
+    "prepare": "husky install",
     "release": "standard-version",
     "commit": "cz"
   },
