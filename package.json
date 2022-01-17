@@ -1,0 +1,14 @@
+{
+  "name": "ghostcoder",
+  "description": "Let ghostcoder to generate the boring codes for you",
+  "author": {
+    "name": "Touraj Khatibi",
+    "email": "2rajpx@gmail.com"
+  },
+  "repository": "https://github.com/tkhatibi/ghostcoder",
+  "version": "0.0.0",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  }
+}
