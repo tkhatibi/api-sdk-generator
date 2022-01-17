@@ -10,5 +10,8 @@
   "license": "MIT",
   "engines": {
     "node": ">=10"
+  },
+  "devDependencies": {
+    "standard-version": "^9.3.2"
   }
 }
