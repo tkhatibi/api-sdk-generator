@@ -15,6 +15,7 @@
     "release": "standard-version"
   },
   "devDependencies": {
+    "commitizen": "^4.2.4",
     "standard-version": "^9.3.2"
   }
 }
